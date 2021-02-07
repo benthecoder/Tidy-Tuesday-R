@@ -1,5 +1,5 @@
-# Tidy-Tuesday-R-Projects
-A collection of cool R projects from the [Tidy Tuesday Community](https://github.com/rfordatascience/tidytuesday)
+# Tidy-Tuesday-R
+A collection of my analysis and visualizations for the [Tidy Tuesday Challenge](https://github.com/rfordatascience/tidytuesday)
 
 ## R YouTube Channels
 * [TidyX](https://www.youtube.com/playlist?list=PLdb0LTjA9iQziLrE4ZpudgJyWDIwbmyQo) - Tidy Tuesday Code Submissions explained
